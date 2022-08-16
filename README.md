@@ -12,4 +12,4 @@ g++ passwordgen.cpp.cpp -o Mot-de-passe-Gen
 ./Mot-de-passe-Gen
 ```
 
-> Thanks you 😁
+> Merci 😁
