@@ -4,7 +4,7 @@ Un générateur de mot de passe assez simple écrit en C++ <br>
 
 ## Faire 
 ```bash
-g++ passwordgen.cpp.cpp -o Password-Gen
+g++ passwordgen.cpp -o Password-Gen
 ```
 
 ## Usage
